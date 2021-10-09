@@ -1,3 +1,4 @@
+// firebase configuration object containing keys and identifiers for your app
 const firebaseConfig = {
   apiKey: "AIzaSyDrjH10U0tFoknaAjLuHfZLRSc4BvvTs6I",
   authDomain: "slack-clone-v2-fd17d.firebaseapp.com",
